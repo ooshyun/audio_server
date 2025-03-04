@@ -1,0 +1,14 @@
+{
+    "audio": {
+        "buffer_size": 64,
+        "window_size": 1,
+        "hop_size": 0.5,
+        "num_channels": 1,
+        "fft_size": 256,
+        "overlap": 128,
+        "num_mels": 80,
+        "sample_rate": 44100,
+        "f_min": 0,
+        "f_max": 8000
+    }
+}
